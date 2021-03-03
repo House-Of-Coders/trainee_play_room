@@ -1,8 +1,8 @@
-# *PlayRoom  :octocat:
+# PlayRoom  :octocat:
 
 A simple gaming app which will help kids to improve their memory,concentration,attention to details and more.Matching game which will be probably best for 2-3 years old kids.
 
-##**Installation
+## **Installation**
 
 Following commands are for windows.Install Git on your computer.
 
@@ -12,5 +12,5 @@ Following commands are for windows.Install Git on your computer.
 4.Use the `git clone` command along with the copied URL
 5.Press Enter 
 
-##**License
+## **License**
 
