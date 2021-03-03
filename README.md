@@ -1,16 +1,18 @@
-# json_draggable
+# PlayRoom  :octocat:
 
-A new Flutter project.
+A simple gaming app which will help kids to improve their memory,concentration,attention to details and more.Matching game which will be probably best for 2-3 years old kids.
 
-## Getting Started
+## ** Demo APK : ** 
 
-This project is a starting point for a Flutter application.
+## **Built with**
 
-A few resources to get you started if this is your first Flutter project:
+[Flutter]()
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Firebase]()
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ***Further clarification : ``***
+
+
+
+
+
