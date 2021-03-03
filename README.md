@@ -16,10 +16,13 @@ Following commands are for windows.Install Git on your computer.
 
 5.Press Enter 
 
-## **Buil with**
+## **Built with**
 
 [Flutter]()
+
 [Firebase]()
+
+*Further clarification :*
 
 ## **License**
 
