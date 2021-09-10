@@ -125,7 +125,7 @@ class _GameState extends State<Game> {
           ),
         ),
         Padding(
-          padding: const EdgeInsets.fromLTRB(150, 760, 0, 0),
+          padding: const EdgeInsets.fromLTRB(150, 600, 0, 0),
           child: RaisedButton(
               key: keys[0],
               color: Colors.teal,

@@ -52,7 +52,7 @@ class _GamePageState extends State<GamePage> {
               child: Column(
                 children: [
                   Padding(
-                    padding: const EdgeInsets.only(top: 130),
+                    padding: const EdgeInsets.only(top: 80),
                     child: Text(
                       "Lets Play a Game",
                       style: TextStyle(

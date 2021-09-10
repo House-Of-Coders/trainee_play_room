@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:970518480687:android:b21c9ed5059c0d028403da",
         "android_client_info": {
-          "package_name": "lk.databoxtech.plaroom"
+          "package_name": "com.example.json_draggable"
         }
       },
       "oauth_client": [

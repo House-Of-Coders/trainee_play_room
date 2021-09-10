@@ -10,7 +10,8 @@ class MatchNotifier extends ChangeNotifier {
   bool loaded = false;
   Match currentMatch;
   List<Question> currentQuestions;
-  int cur = -1;
+  int cur = -1 ;
+ 
   MatchNotifier() {
     fetchRemoteData();
   }
@@ -18,12 +19,15 @@ class MatchNotifier extends ChangeNotifier {
   next() async {
     if (this.matches.length == 0) return cur++;
     if (cur == this.matches.length) cur = 0;
+    this.cur++;
     this.currentMatch = this.matches[this.cur];
-    this.currentQuestions =
-        this.currentMatch.questions.toList(); //clone to  a new list
+    this.currentQuestions = this.currentMatch.questions.toList(); //clone to  a new list
+       
     this.currentQuestions.shuffle();
     notifyListeners();
   }
+
+  
 
   fetchRemoteData() {
     matches = new List();
